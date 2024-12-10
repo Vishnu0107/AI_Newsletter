@@ -1,0 +1,4 @@
+.env
+duck/
+poetry.lock
+__pycache__/
